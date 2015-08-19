@@ -1,0 +1,35 @@
+{
+  "name": "deku-table",
+  "description": "Deku component for a table",
+  "version": "1.0.0",
+  "author": "Kevin Neff <kvnneff@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/kvnneff/deku-table/issues"
+  },
+  "devDependencies": {
+    "duo-babel": "^6.0.0",
+    "duo-tester": "^0.1.1",
+    "standard": "*",
+    "virtual-element-assertions": "0.0.1"
+  },
+  "homepage": "https://github.com/kvnneff/deku-table",
+  "keywords": [
+    "deku",
+    "html",
+    "table"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvnneff/deku-table.git"
+  },
+  "scripts": {
+    "lint": "standard **/*.js",
+    "start": "duo-tester browser -u duo-babel",
+    "test": "duo-tester phantomjs -u duo-babel"
+  },
+  "dependencies": {
+    "magic-virtual-element": "^1.0.4"
+  }
+}

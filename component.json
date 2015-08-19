@@ -1,0 +1,11 @@
+{
+  "name": "deku-table",
+  "version": "1.0.0",
+  "dependencies": {
+    "dekujs/magic-virtual-element": "^1.0.5"
+  },
+  "development": {
+    "component/assert": "^0.5.0",
+    "dominicbarnes/virtual-element-assertions": "^0.0.1"
+  }
+}
