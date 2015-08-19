@@ -25,10 +25,10 @@ export function render ({props}) {
   return (
     <Table
       rows={[
-        ['Full Name', 'Age'],       // first row is header row
-        ['Steven Miller', '25'],
-        ['Tamara Jordan', '23'],
-        ['John Smith', '28']
+        ['Last Name', 'First Name'],   // first row is header row
+        ['Doe', 'Jane'],
+        ['Smith', 'John'],
+        ['Neff', 'Kevin']
       ]}/>
   )
 }
