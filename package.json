@@ -10,7 +10,7 @@
     "duo-babel": "^6.0.0",
     "duo-tester": "^0.1.1",
     "standard": "*",
-    "virtual-element-assertions": "0.0.1"
+    "assert-element": "*"
   },
   "homepage": "https://github.com/kvnneff/deku-table",
   "keywords": [
