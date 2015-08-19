@@ -1,7 +1,7 @@
 {
   "name": "deku-table",
   "description": "Deku component for a table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Kevin Neff <kvnneff@gmail.com>",
   "bugs": {
     "url": "https://github.com/kvnneff/deku-table/issues"
